@@ -1,6 +1,6 @@
 # E commerce App UI
 
-<img src="">
+<img src="thumbnail.jpg">
 
 # Demo
 https://youtu.be/O0O9g3BfRu4
