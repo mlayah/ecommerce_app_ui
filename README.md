@@ -1,6 +1,9 @@
-# shop_watch
+# E commerce App UI
 
-A new Flutter project.
+<img src="">
+
+# Demo
+https://youtu.be/O0O9g3BfRu4
 
 ## Getting Started
 
